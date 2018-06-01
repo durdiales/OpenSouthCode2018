@@ -8,3 +8,4 @@ análisis de casi en tiempo real en sistemas CRM.
 Algunas de esas características, como el streaming processing, back pressure support y escalabilidad, entre otros, son aún más asombrosos, cuando se usa la programación funcional y es ahí donde Lagom muestra sus características y versatilidad. 
 
 De esta forma, el objetivo de esta charla es, para personas interesado en la programación funcional, tener la oportunidad de conocer las características que puede ofrecer Lagom para el desarrollo de aplicaciones basadas en microservicios, y que puedan empezar a dar sus primeros pasos con este framework.
+
